@@ -26,5 +26,5 @@ This project focuses on analyzing the Human Resources and Recruitment data for *
 * Screenshots/ : A folder containing images of the final dashboard.
 
 ---
-# Author:** Mahmoud Abdel Nasser Attya  
-# Role:** Data Analyst
+# Author: Mahmoud Abdel Nasser Attya  
+# Role: Data Analyst
